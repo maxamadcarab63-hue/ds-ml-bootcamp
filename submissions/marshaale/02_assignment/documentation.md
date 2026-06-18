@@ -1,4 +1,4 @@
-# Car rental
+# Car rental Dataset
 
 ## What is your dataset about?
 
@@ -10,7 +10,7 @@ The Dataset contains car rental information, The initial data seed was taken fro
 
 ## How did you collect it?
 
-I collected the seed data by visiting their [website](https://hosnirentalcar.com/vehicles) and manually gathering the information.
+I collected the seed data by visiting [Honsi Rental Car website](https://hosnirentalcar.com/vehicles) and manually gathering the information.
 
 ## Description of Features & Labels?
 
@@ -73,6 +73,6 @@ The learning type of this dataset is supervised because we have features/inputs 
 
 The machine learning use case for this dataset is supervised learning, specifically regression. It is a regression problem because the target (label) is a continuous numerical value.
 
-### Where would it fit in the Data Science lifecycle ?
+### Where would it fit in the Data Science lifecycle?
 
 It fits into the Problem Definition and Data Collection phases of the data science lifecycle.
